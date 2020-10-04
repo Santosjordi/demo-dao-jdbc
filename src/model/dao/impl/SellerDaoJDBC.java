@@ -93,7 +93,7 @@ public class SellerDaoJDBC implements SellerDao{
 			st = conn.prepareStatement("DELETE FROM seller WHERE Id = ?");
 			st.setInt(1, id);
 			
-			int rows = st.executeUpdate();
+			st.executeUpdate();
 			
 		} catch (SQLException e) {
 			throw new DbException (e.getMessage());
