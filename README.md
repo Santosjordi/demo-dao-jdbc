@@ -1,5 +1,5 @@
 # WEB SERVICE SPRING-BOOT
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Santosjordi/sts-jpa-ws-Udemy/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Santosjordi/demo-dao-jdbc/blob/master/LICENSE) 
 
 # Sobre o projeto
 
