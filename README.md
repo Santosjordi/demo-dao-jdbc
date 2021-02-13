@@ -7,9 +7,6 @@ Esta aplicação é um projeto didático executado em acordo com os exercícios 
 
 # Tecnologias utilizadas
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
 - Banco de dados: mySQL
 
 ## Pré-Requisitos
